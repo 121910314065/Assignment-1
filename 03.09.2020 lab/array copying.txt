@@ -1,0 +1,6 @@
+from numpy import*
+
+# The original NumPy array
+new_arr =array([1, 3, 5, 7, 9])
+arr2=new_arr
+print(arr2)
